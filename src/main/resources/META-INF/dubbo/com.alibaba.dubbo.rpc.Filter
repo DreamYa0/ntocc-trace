@@ -1,0 +1,2 @@
+tracefilter=com.g7.framework.trace.filter.DubboTraceFilter
+genericecho=com.g7.framework.trace.filter.DubboGenericEchoFilter
